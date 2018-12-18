@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Ime">"Név "</string>
+    <string name="Prezime">Vezetéknév</string>
+    <string name="Dalje">További</string>
+    <string name="Predmet">Téma</string>
+    <string name="Upisi">ír</string>
+    <string name="Potvrdi">Megerősített</string>
+    <string name="Image">Image</string>
+    <string name="DatumRodenja">"Születési dátum "</string>
+    <string name="Profesor">"Egyetemi tanár "</string>
+    <string name="AkGodina">Tanév</string>
+    <string name="Predavanja">"óra előadások "</string>
+    <string name="Vjezbe">Edzés órája</string>
+    <string name="Dodaj_studenta">"Adj hozzá egy diákot "</string>
+</resources>

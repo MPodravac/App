@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Ime">Name</string>
+    <string name="Prezime">Surname</string>
+    <string name="Dalje">Next</string>
+    <string name="Predmet">Subject</string>
+    <string name="Upisi">Register</string>
+    <string name="Potvrdi">Confirm</string>
+    <string name="Image">Image</string>
+    <string name="DatumRodenja">Date of birth</string>
+    <string name="Profesor">Professor</string>
+    <string name="AkGodina">Academic year</string>
+    <string name="Predavanja">Hours of lectures</string>
+    <string name="Vjezbe">Hours of practice</string>
+    <string name="Dodaj_studenta">Add new student</string>
+</resources>

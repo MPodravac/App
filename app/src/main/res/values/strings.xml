@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="Ime">Ime</string>
+    <string name="Prezime">Prezime</string>
+    <string name="Dalje">Dalje</string>
+    <string name="Predmet">Predmet</string>
+    <string name="Upisi">Upiši</string>
+    <string name="Potvrdi">Potvrdi</string>
+    <string name="Image">Image</string>
+    <string name="DatumRodenja">Datum rođenja</string>
+    <string name="Profesor">Profesor</string>
+    <string name="AkGodina">Akademska godina</string>
+    <string name="Predavanja">Broj sati predavanja</string>
+    <string name="Vjezbe">Broj sati vježbi</string>
+    <string name="Dodaj_studenta">Dodaj studenta</string>
+    <string-array name="Jezici">
+        <item>Hrvatski</item>
+        <item>Engleski</item>
+        <item>Mađarski</item>
+    </string-array>
+</resources>
